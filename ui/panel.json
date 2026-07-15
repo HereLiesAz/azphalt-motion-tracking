@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mode",
+    "type": "select",
+    "label": "Tracking Mode",
+    "options": [
+      "Planar",
+      "Point"
+    ]
+  },
+  {
+    "id": "x",
+    "type": "slider",
+    "label": "X Position",
+    "min": 0,
+    "max": 1920
+  },
+  {
+    "id": "y",
+    "type": "slider",
+    "label": "Y Position",
+    "min": 0,
+    "max": 1080
+  },
+  {
+    "id": "track_btn",
+    "type": "button",
+    "label": "Analyze Forward"
+  }
+]
