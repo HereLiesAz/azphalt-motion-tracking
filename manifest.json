@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.plugin.vegas-motion-track",
+  "id": "com.hereliesaz.azphalt.motion-tracking",
   "name": "Motion Tracker",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "filters": [
       {
-        "id": "vegas-motion-track",
+        "id": "com.hereliesaz.azphalt.motion-tracking",
         "name": "Motion Tracker",
         "entry": "filter",
         "ui": "ui/panel.json"
