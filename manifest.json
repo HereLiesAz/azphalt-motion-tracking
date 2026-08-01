@@ -6,6 +6,7 @@
   "kind": "code",
   "license": "GPL-3.0-or-later",
   "compat": ">=0.1",
+  "description": "Puts a tracking box on the frame and analyses forward from it — point or planar — so other layers can follow what it finds.",
   "author": "HereLiesAz",
   "runtime": "js",
   "entry": "code/main.js",
